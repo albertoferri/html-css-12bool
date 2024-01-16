@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* reset */
+
+
+
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.test *{
+    border: dashed 1px gray;
+    background-color: rgba(0, 0, 255, 0.2);
+}
+
+/* stilizzazione colonne */
+
