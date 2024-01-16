@@ -1,5 +1,5 @@
 h1{
-    font-size: 40px;
+    font-size: 90px;
     color: orangered;
     padding: 10px;
 }
@@ -35,3 +35,12 @@ h1{
     background-color: lightblue;
 }
 
+.justify-end{
+    position: relative;
+    left: 49px;
+}
+
+.foot{
+    /* position: relative;
+    right: 49px; */
+}
