@@ -13,8 +13,17 @@
     flex-wrap: wrap;
 }
 
+/* regola generica per tutte le colonne */
+[class*="col-"] {
+    flex: 0 0 auto;
+    /* flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto; */
+}
 
-.test *{
+
+
+.test{
     border: dashed 1px gray;
     background-color: rgba(0, 0, 255, 0.2);
 }
