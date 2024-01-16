@@ -1,0 +1,33 @@
+h1{
+    font-size: 40px;
+    color: orangered;
+    padding: 10px;
+}
+
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+
+/* stilizzazione quadrati colorati */
+
+[class*="col-"]{
+    height: 100px;
+    width: 100px;
+
+}
+
+
+.red{
+    background-color: red;
+}
+
+.black{
+    background-color: black;
+}
+
+.blue{
+    background-color: #74a4d9;
+}
+
